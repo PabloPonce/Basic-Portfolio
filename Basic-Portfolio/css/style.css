@@ -1,0 +1,174 @@
+/* CSS styles about to code! */
+@charset "utf-8";
+
+
+body {
+     background-image: url(../img/gplaypattern.png);
+
+}
+
+footer {
+    clear: both;
+    font-size: 16px;
+    color: white;
+   
+}
+
+footer p {
+    color: white;
+
+}
+
+h1 {
+    color: #4aaaa5;
+    font-weight: bold;
+    font-size: 40px;
+    border-bottom: 1px solid grey;
+    padding: 15px 10px 15px 10px;
+}
+
+h2 {
+    color: #4aaaa5;
+    font-weight: bold;
+    font-size: 25px; 
+    border-bottom: 1px solid grey;
+    padding: 15px 10px 15px 10px; 
+}
+
+p {
+    color: #777777;
+    margin-top: 50px;
+    margin-right: 30px;
+    letter-spacing: 1px;
+    line-height: 20px;
+    padding: 5px;
+    font-family: arial;
+    font-kerning: normal;
+
+}
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+
+}
+
+li {
+    float: right;
+    padding: 14px 30px;
+    border-right: .5px solid #777777;
+
+}
+
+li a {
+    text-decoration: none;
+    margin-left: 20px;
+    border-left-color: black;
+    color: #777777;
+    padding-top: 50px;
+    
+}
+
+a:hover:not(.active) {
+    color: #4aaaa5;
+}
+
+.active {
+    color: #4aaaa5;
+}
+
+
+
+.pp {
+    background-color: #4aaaa5; 
+    width: 180px;
+    height: 50px;
+    color: white;
+    text-align: center;
+    margin-left: 100px;
+    padding-top: 50px;
+    font-family: arial;
+    float: left;
+    font-size: 25px;
+}
+
+.header {
+border-color: #fff;
+font-family: Arial;
+background-color: #fff;
+padding-top: 30px;
+padding-right: 100px;
+height: 100px;
+width: 100%;
+border-bottom: 3px solid #777777;
+}
+
+
+.a_me {
+    width: 650px;
+    float: left;
+    border: #dddddd;
+    float: left;
+    background-color: white;
+    border: 1px solid #777777;
+    margin: 50px;
+    width: 650px; 
+}
+
+.photoshoot {
+    height: 60%;
+    width: 30%;
+    padding: 45px;
+}
+
+.media {
+    width: 25%;
+    height: 25%;
+    padding-top: 40px;
+    padding-left: 15px;
+    padding-bottom: 40px;
+      
+}
+.keepintouch {
+    width: 270px;
+    float: left;
+    border: #dddddd;
+    background-color: white;
+    border: 1px solid #777777;
+    margin: 45px; 
+}
+
+.txt {
+    color:#777777;
+}
+
+
+.footer {
+   background-color:  #666666;
+   clear: both;
+    font-family: Arial;
+    height: 100px;
+    width: 100%;
+    border-top: 5px solid #4aaaa5;
+    text-align: center;
+}
+
+.copyright {
+    text-align: center;
+    font-color: white;
+    padding-top: 50px;
+
+}
+
+.done {
+    padding: 20%;
+    margin: 10px;
+    float: left;
+    width: 40%;
+    height: 40%;
+}
+
+
